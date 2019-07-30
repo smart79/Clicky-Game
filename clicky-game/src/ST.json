@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "image": "Billy.jpg"
+    },
+    {
+        "id": 2,
+        "image": "Dustin.jpg"
+    },
+    {
+        "id": 3,
+        "image": "Eleven.jpg"
+    },
+    {
+        "id": 4,
+        "image": "Erica.jpg"
+    },
+    {
+        "id": 5,
+        "image": "Hopper.jpg"
+    },
+    {
+        "id": 6,
+        "image": "Joyce.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Lucas",
+        "image": "Lucas.jpg"
+    },
+    {
+        "id": 8,
+        "image": "Max.jpg"
+    },
+    {
+        "id": 9,
+        "image": "Mike.jpg"
+    },
+    {
+        "id": 10,
+        "image": "Robin.jpg"
+    },
+    {
+        "id": 11,
+        "image": "steve.jpg"
+    },
+    {
+        "id": 12,
+        "image": "Will.jpg"
+    }
+]
