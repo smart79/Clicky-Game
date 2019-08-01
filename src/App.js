@@ -37,7 +37,7 @@ class App extends Component {
           score: this.state.score + 1
         },
         () => {
-          if (this.state.score === 18) {
+          if (this.state.score === 12) {
             alert("You Win!");
             this.setState({
               ST: this.state.ST.sort(function (a, b) {
